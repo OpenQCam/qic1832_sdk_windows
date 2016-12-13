@@ -1,0 +1,6 @@
+========================================================================
+    QIC1832 Encoder Camera SDK : QIC1832 Library Reversion Information
+========================================================================
+Library					Rev
+H264Demux.lib			2657
+XUControl.lib			5299
